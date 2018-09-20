@@ -1,1 +1,3 @@
 # WageCoin
+
+In progress
